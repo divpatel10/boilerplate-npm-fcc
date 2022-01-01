@@ -3,7 +3,10 @@
 	"author":"Divyanshu Patel",
 	"description": "A sample npm project",
 	"keywords":["sample", "first app", "test", "freecodecamp"],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
+		"moment":"2.10.2",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
