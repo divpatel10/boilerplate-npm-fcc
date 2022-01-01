@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"Divyanshu Patel",
 	"description": "A sample npm project",
-	"keywords":["sample", "first app", "test"],
+	"keywords":["sample", "first app", "test", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
